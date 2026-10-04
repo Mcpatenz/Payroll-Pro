@@ -1,0 +1,8 @@
+{
+  "name": "Payroll Pro — Philippine HR & Payroll Management System",
+  "description": "Enterprise Philippine payroll and HR management platform with effective-dated statutory tables (SSS, PhilHealth, Pag-IBIG, BIR), DTR tracking, leave & loans, payslip generation, and government compliance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
